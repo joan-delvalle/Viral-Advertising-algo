@@ -1,1 +1,1 @@
-# Viral-Advertising-algo
+# Viral-Advertising-algo This code simulates a viral advertising scenario where each day, half of the people who receive the ad “like” it, and each of those likers shares it with 3 friends the next day. The `viralAdvertising` function calculates the total cumulative likes over `n` days by iterating day by day, updating the number of people who like the ad and the number of people it will be shared with.
